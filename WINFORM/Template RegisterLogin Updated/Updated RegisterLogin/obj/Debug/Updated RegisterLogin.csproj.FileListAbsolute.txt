@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\bin\Debug\Updated RegisterLogin.exe.config
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\bin\Debug\Updated RegisterLogin.exe
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\bin\Debug\Updated RegisterLogin.pdb
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated RegisterLogin.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated_RegisterLogin.LoginForm.resources
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated_RegisterLogin.Properties.Resources.resources
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated RegisterLogin.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated RegisterLogin.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated RegisterLogin.exe
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated RegisterLogin.pdb
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated_RegisterLogin.RegisterForm.resources
+C:\Users\asus\source\repos\Updated RegisterLogin\Updated RegisterLogin\obj\Debug\Updated_RegisterLogin.MainForm.resources

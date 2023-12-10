@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\bin\Debug\Registration and Login.exe.config
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\bin\Debug\Registration and Login.exe
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\bin\Debug\Registration and Login.pdb
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration and Login.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.frmRegister.resources
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Properties.Resources.resources
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration and Login.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration and Login.exe
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration and Login.pdb
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.frmLogin.resources
+C:\Users\asus\source\repos\Registration and Login\Registration and Login\obj\Debug\Registration_and_Login.Dashboard.resources
